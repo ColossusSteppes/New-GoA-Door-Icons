@@ -1,0 +1,54 @@
+title: New GoA Door Icons
+originalAuthor: (Original by) Tieulink, Napstio, Mikote, Soraiko, Gemini
+description: Changes the Hollow Bastion and STT Garden Icons to the ones made for the Roxas Mod Randomizer Fix
+game: kh2
+specifications: 0
+dependencies: 
+assets:
+- name: remastered/map/hb26.map/-88.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-88.dds
+  
+- name: remastered/map/hb26.map/-89.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-89.dds
+  
+- name: remastered/map/hb26.map/-96.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-96.dds
+  
+- name: remastered/map/hb26.map/-97.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-97.dds
+  
+- name: remastered/map/hb26.map/-114.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-114.dds
+  
+- name: remastered/map/hb26.map/-115.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-115.dds
+  
+- name: remastered/map/hb26.map/-122.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-122.dds
+  
+- name: remastered/map/hb26.map/-123.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/map/hb26.map/-123.dds
